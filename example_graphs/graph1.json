@@ -1,0 +1,81 @@
+{
+    "nodes": [
+        {
+            "id": "A",
+            "heuristic": 7
+        },
+        {
+            "id": "B",
+            "heuristic": 6
+        },
+        {
+            "id": "C",
+            "heuristic": 4
+        },
+        {
+            "id": "D",
+            "heuristic": 5
+        },
+        {
+            "id": "E",
+            "heuristic": 2
+        },
+        {
+            "id": "F",
+            "heuristic": 1
+        },
+        {
+            "id": "G",
+            "heuristic": 0
+        }
+    ],
+    "edges": [
+        {
+            "from": "A",
+            "to": "B",
+            "weight": 3
+        },
+        {
+            "from": "A",
+            "to": "C",
+            "weight": 2
+        },
+        {
+            "from": "B",
+            "to": "D",
+            "weight": 2
+        },
+        {
+            "from": "C",
+            "to": "D",
+            "weight": 1
+        },
+        {
+            "from": "C",
+            "to": "E",
+            "weight": 3
+        },
+        {
+            "from": "D",
+            "to": "E",
+            "weight": 4
+        },
+        {
+            "from": "D",
+            "to": "F",
+            "weight": 5
+        },
+        {
+            "from": "E",
+            "to": "G",
+            "weight": 2
+        },
+        {
+            "from": "F",
+            "to": "G",
+            "weight": 1
+        }
+    ],
+    "start_node": "A",
+    "goal_node": "G"
+}
