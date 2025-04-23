@@ -56,7 +56,6 @@ python main.py
 
 ### 🖲️ Interface Utilisateur
 
-![Aperçu de l'interface](https://via.placeholder.com/800x400?text=Capture+d'écran+UI+avec+boutons+et+graphe)
 
 | Bouton                  | Fonctionnalité                          |
 |-------------------------|-----------------------------------------|
