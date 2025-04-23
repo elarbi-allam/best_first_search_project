@@ -32,13 +32,14 @@
 
 ### Installation
 
-````bash
+```bash
 # Cloner le dépôt
 git clone https://github.com/elarbi-allam/best_first_search_project.git
 cd best_first_search_project
 
 # Installer les dépendances
 pip install -r requirements.txt
+```
 
 > **Note** : Pour Python 3.12+, exécutez d'abord :
 > ```bash
@@ -51,6 +52,7 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
+```
 
 ### 🖲️ Interface Utilisateur
 
@@ -106,7 +108,9 @@ def best_first_search(graph, start, goal):
 
     # Reconstruction du chemin
     return reconstruct_path(visited, goal)
-    ## 📂 Structure du Projet
+```
+
+## 📂 Structure du Projet
 
 ```plaintext
 best-first-search-visualizer/
@@ -119,6 +123,7 @@ best-first-search-visualizer/
 │   └── exports/         # Résultats d'exécution
 └── docs/
     └── tutorial.md      # Guide approfondi
+```
 
 ## 🧪 Exemples
 
@@ -135,6 +140,8 @@ best-first-search-visualizer/
         {"from": "A", "to": "G", "weight": 1}
     ]
 }
+```
+
 **Résultat Attendu** :
 ➤ `Chemin optimal : A → G`
 ➤ `Coût total : 1`
@@ -167,10 +174,11 @@ best-first-search-visualizer/
 
 ```text
 MIT License
+```
+
 <div align="center">
 
 **Créé avec ❤️ par [ELARBI ALLAM](mailto:elarbi.allam.51@gmail.com)**
 📧 **Contact**: [elarbi.allam.51@gmail.com](mailto:elarbi.allam.51@gmail.com)
 
 </div>
-````
