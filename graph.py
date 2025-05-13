@@ -1,6 +1,8 @@
 import json
 import networkx as nx
 
+
+
 class Graph:
     """
     Classe représentant un graphe pour l'algorithme Best-First Search.

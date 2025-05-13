@@ -5,6 +5,8 @@ class BestFirstSearch:
     Implémentation de l'algorithme Best-First Search (recherche meilleur d'abord).
     Cet algorithme utilise une fonction heuristique pour guider la recherche vers le but.
     """
+
+    
     
     def __init__(self, graph):
         """
