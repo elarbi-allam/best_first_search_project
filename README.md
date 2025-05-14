@@ -177,7 +177,5 @@ MIT License
 
 <div align="center">
 
-**Créé avec ❤️ par [ELARBI ALLAM](mailto:elarbi.allam.51@gmail.com)**
-📧 **Contact**: [elarbi.allam.51@gmail.com](mailto:elarbi.allam.51@gmail.com)
 
 </div>
